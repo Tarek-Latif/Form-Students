@@ -1,0 +1,61 @@
+*{
+    font-family: 'janna lt';
+    box-sizing: border-box;
+    direction: rtl;
+}
+body {
+    background-color:#d4d6e3;
+}
+#Mother {
+    width: 100% ;
+    font-size: 20px ;
+}
+main {
+    padding: 5px ;
+}
+input {
+    padding: 4px ;
+    border: 2px solid black;
+    text-align: center;
+    width: 260px;
+    font-size: 17px ;
+    font-weight:bolder;
+}
+aside {
+    text-align: center;
+    width: 300px;
+    float: right;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color:#98b0d7;
+    color: white;
+    margin-top: -90px;
+    height: 550px;
+    margin-top: 8px;
+}
+aside button {
+    width: 120px;
+    padding: 8px;
+    margin-bottom: -2px;
+    font-size: 17px;
+    font-weight: bolder;
+    background-color: #5474a4;
+    color: white;
+
+}
+#tb1 {
+    width: 850px;
+    font-size: 20px;
+    text-align: center;
+}
+#tb1 tr:hover {
+    background-color: blue;
+    color: white;
+}
+#tb1 th {
+    background-color: #5474a4;
+    color: white;
+    font-size: 19px;
+    padding: 10px;
+}
